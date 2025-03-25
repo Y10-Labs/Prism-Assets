@@ -1,0 +1,12 @@
+# Blender 4.2.1 LTS MTL File: 'chair.blend'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 0.600000 0.600000 0.600000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 36.849998
+d 1.000000
+illum 3
+map_Kd /Users/musicalmimmi/Downloads/Poliigon_MetalRust_7642/256/Poliigon_MetalRust_7642_BaseColor.jpg
